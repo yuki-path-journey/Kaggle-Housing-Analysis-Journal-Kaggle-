@@ -58,3 +58,6 @@ Case 01: Heating Quality (HeatingQC)
 急傾斜地の物件は、水捌けのリスクよりも「眺望(View)」という付加価値が勝っている可能性がある。ただし、サンプル数が13件と極めて少ないため、特定の豪邸による「外れ値」の影響を考慮すべきである。
 <img width="876" height="547" alt="slope_analysis" src="https://github.com/user-attachments/assets/f4bc694a-f218-4a20-9d85-7a20e7e26687" />
 
+### Case 03: 屋根の素材 (Roof Material)
+![Roof Material](roof_analysis.png)
+**[推理]** ウッドシングル(WdShngl)の屋根を持つ家は、標準的な素材(CompShg)よりも価格が高い傾向にある。屋根の素材は住宅のグレードを判断する重要な指標になりそうだ。
