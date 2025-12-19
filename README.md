@@ -55,4 +55,4 @@ Case 01: Heating Quality (HeatingQC)
 
 **[Insight / 刑事の勘]**
 急傾斜地の物件は、水捌けのリスクよりも「眺望(View)」という付加価値が勝っている可能性がある。ただし、サンプル数が13件と極めて少ないため、特定の豪邸による「外れ値」の影響を考慮すべきである。
-![Heating Analysis](slope_analysispng)
+![Heating Analysis](slope_analysis.png)
