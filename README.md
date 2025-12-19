@@ -43,6 +43,7 @@ Case 01: Heating Quality (HeatingQC)
 
 **[Insight / 刑事の勘]**
 暖房品質「Ex」は単なる設備の良さだけでなく、家全体の気密性や断熱リフォームが行き届いている「優良物件」の証拠である。
+<img width="571" height="455" alt="heating_analysis" src="https://github.com/user-attachments/assets/0b529ca4-cd4f-4610-936c-1493ef335aa8" />
 
 
 ### Case 02: Land Slope (LandSlope) - 水捌けと地形
@@ -55,4 +56,5 @@ Case 01: Heating Quality (HeatingQC)
 
 **[Insight / 刑事の勘]**
 急傾斜地の物件は、水捌けのリスクよりも「眺望(View)」という付加価値が勝っている可能性がある。ただし、サンプル数が13件と極めて少ないため、特定の豪邸による「外れ値」の影響を考慮すべきである。
-![Heating](image_71720e.png)
+<img width="876" height="547" alt="slope_analysis" src="https://github.com/user-attachments/assets/f4bc694a-f218-4a20-9d85-7a20e7e26687" />
+
