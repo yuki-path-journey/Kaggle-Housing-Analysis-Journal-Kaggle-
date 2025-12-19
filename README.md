@@ -43,8 +43,7 @@ Case 01: Heating Quality (HeatingQC)
 
 **[Insight / 刑事の勘]**
 暖房品質「Ex」は単なる設備の良さだけでなく、家全体の気密性や断熱リフォームが行き届いている「優良物件」の証拠である。
-
----
+heating_analysis.png---
 
 ### Case 02: Land Slope (LandSlope) - 水捌けと地形
 **[Investigation / 捜査の目的]**
