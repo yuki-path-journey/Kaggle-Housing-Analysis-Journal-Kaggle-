@@ -62,3 +62,4 @@ Case 01: Heating Quality (HeatingQC)
 ![Roof Material](roof_analysis.png)
 **[推理]** ウッドシングル(WdShngl)の屋根を持つ家は、標準的な素材(CompShg)よりも価格が高い傾向にある。屋根の素材は住宅のグレードを判断する重要な指標になりそうだ。
 <img width="876" height="590" alt="屋根の分析" src="https://github.com/user-attachments/assets/c46ac433-756e-454b-98df-b9d695979772" />
+「特に WdShngl（木製屋根） の物件は価格が高騰しており、高級住宅の証拠と言える。」
