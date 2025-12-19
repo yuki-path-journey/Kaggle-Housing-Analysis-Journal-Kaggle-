@@ -15,3 +15,9 @@
 ### 📊 Results
 - **First Submission Score**: 0.71890
 - **Approach**: Linear Regression using Quality, Area, House Age, and CentralAir.
+Case 01: Heating Quality (HeatingQC)
+[Investigation / 捜査の目的] アイオワ州の厳しい冬を想定。暖房設備(HeatingQC)の品質が住宅価格に与える影響をプロファイリングする。
+
+[Findings / 調査結果] 「Ex (Excellent)」評価の物件が、他のランクと比較して圧倒的に高値で取引されていることが判明。
+
+[Insight / 刑事の勘] 「Ex」評価は単なる暖房機の性能だけでなく、建物全体の気密性や断熱リフォームが完了していることを示唆している。冬の光熱費という「ランニングコスト」を抑えられる物件が、市場では高い資産価値として認められている。
