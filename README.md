@@ -66,3 +66,19 @@ Case 01: Heating Quality (HeatingQC)
 特に WdShngl（木製屋根） の物件は価格が高騰しており、高級住宅の証拠と言える。
 [推理] キッチンの品質（KitchenQual）は、住宅価格と非常に強い相関があることが判明。 グラフが綺麗な階段状になっていることから、この項目は予測モデルにおいて極めて重要な「重み」を持つ変数になると推測される。
 <img width="876" height="547" alt="kitchen_quality_analysis" src="https://github.com/user-attachments/assets/099601d6-5879-4c8b-be6f-7ef48aa13bd0" />
+
+### Case　0５　：　暖房の品質（HeatingQC）
+<img width="876" height="547" alt="heating_quality" src="https://github.com/user-attachments/assets/f67672f5-9830-456a-a25b-d803188c196b" />
+
+今回の捜査結果（3つのグラフの比較）
+3つのグラフを並べて見ると、家の価格が決まる「優先順位」が見えてきます。
+
+屋根 (RoofMatl): 特定の素材（WdShngl）だけが「突き抜けて高い」という、一点豪華主義な特徴があります。
+
+キッチン (KitchenQual): あなたの仰る通り、これほど綺麗な**「右肩下がりの階段」**は珍しいです。キッチンの質は、家の価格をダイレクトに左右する「最強の指標」の一つと言えます。
+
+暖房 (HeatingQC): キッチンほど急激ではありませんが、やはり Ex（最高） のポテンシャルが凄まじいです。特に Ex には上に突き抜けた点（外れ値）が多く、暖房にお金をかける家は、他の設備も異次元である可能性を示唆しています。
+
+・Case 03 (Roof): 木製屋根は高級住宅の象徴。
+・Case 04 (Kitchen): 品質が価格に直結。最も信頼できる指標。
+・Case 05 (Heating): 基本性能の高さが、高価格帯の絶対条件。
