@@ -59,7 +59,10 @@ Case 01: Heating Quality (HeatingQC)
 <img width="876" height="547" alt="slope_analysis" src="https://github.com/user-attachments/assets/f4bc694a-f218-4a20-9d85-7a20e7e26687" />
 
 ### Case 03: 屋根の素材 (Roof Material)
-![Roof Material](roof_analysis.png)
 **[推理]** ウッドシングル(WdShngl)の屋根を持つ家は、標準的な素材(CompShg)よりも価格が高い傾向にある。屋根の素材は住宅のグレードを判断する重要な指標になりそうだ。
 <img width="876" height="590" alt="屋根の分析" src="https://github.com/user-attachments/assets/c46ac433-756e-454b-98df-b9d695979772" />
-「特に WdShngl（木製屋根） の物件は価格が高騰しており、高級住宅の証拠と言える。」
+
+### Case 04:　　キッチンの品質に関する捜査報告(Analysis of Kitchen Quality)
+特に WdShngl（木製屋根） の物件は価格が高騰しており、高級住宅の証拠と言える。
+[推理] キッチンの品質（KitchenQual）は、住宅価格と非常に強い相関があることが判明。 グラフが綺麗な階段状になっていることから、この項目は予測モデルにおいて極めて重要な「重み」を持つ変数になると推測される。
+<img width="876" height="547" alt="kitchen_quality_analysis" src="https://github.com/user-attachments/assets/099601d6-5879-4c8b-be6f-7ef48aa13bd0" />
