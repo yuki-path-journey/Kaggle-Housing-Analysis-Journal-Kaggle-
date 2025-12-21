@@ -76,3 +76,6 @@
 - **Case 03 (Roof)**: 木製屋根は高級住宅の象徴。
 - **Case 04 (Kitchen)**: 品質が価格に直結。最も信頼できる指標。
 - **Case 05 (Heating)**: 基本性能の高さが、高価格帯の絶対条件。
+---
+### 🔍 Keywords for Global Search
+`Kaggle` `Data Science` `Machine Learning` `House Prices` `Python` `Data Analysis` `Detective Intuition`
