@@ -1,4 +1,15 @@
 
+---
+### ✉️ Open to Professional Collaboration
+This model is currently helping 40+ daily users with housing market projections.
+If you're interested in implementing, consulting, or exploring new analytical opportunities, let's connect:
+
+- **Email:** ncis.la.no85@gmail.com
+---
+
+## 🔍 Overview / Documentation
+---
+
 - **Case 03 # Kaggle House Prices Analysis: Identifying Value through Environmental Factors
 「実務での環境（気温）意識をデータ分析に活用するプロジェクト」
 
