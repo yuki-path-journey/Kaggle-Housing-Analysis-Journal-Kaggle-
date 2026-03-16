@@ -4,7 +4,6 @@
 This model is currently helping 40+ daily users with housing market  I'mprojections.
 If you're interested in implementing, consulting, or exploring new analytical opportunities, let's connect:
 
-<a href="https://info.flagcounter.com/f9zn"><img src="https://s01.flagcounter.com/count2/f9zn/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
 - **Email:** ncis.la.no85@gmail.com
