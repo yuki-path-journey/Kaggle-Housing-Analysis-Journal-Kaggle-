@@ -4,9 +4,16 @@
 This model is currently helping 40+ daily users with housing market  I'mprojections.
 If you're interested in implementing, consulting, or exploring new analytical opportunities, let's connect:
 
+---
+### 🌍 Live Traffic Status
+![Flag Counter]　<img width="320" height="568" alt="Image" src="https://github.com/user-attachments/assets/e4c64dbb-9bf7-4e62-9681-9019bc64ef34" />- 
 
+### 📧 Contact
+**Email:** ncis.la.no85@gmail.com
+-
+**LinkedIn Profile:** [Professional Profile](https://www.linkedin.com/in/友紀-神谷-2427b737a/)
+---
 
-- **Email:** ncis.la.no85@gmail.com
 ---
 
 ## 🔍 Overview / Documentation
