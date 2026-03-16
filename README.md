@@ -4,7 +4,30 @@
 This project explores housing price trends using Kaggle datasets. My goal is to extract key factors that influence market value.
 
 ## Why this matters?
-I am currently analyzing [ここに少しだけ「なぜこの分析が面白いか」を書く] to improve model accuracy. 
+# Kaggle Housing Analysis Journal
+
+## ✉️ Open to Professional Collaboration
+This model is currently helping 40+ daily users with housing market projections. If you're interested in implementing, consulting, or exploring new analytical opportunities, let's connect!
+
+## Project Overview
+This project explores housing price trends using Kaggle datasets. My goal is to extract key factors that influence market value.
+
+## Why this matters? (My Professional Perspective)
+I work in an environment with extreme temperature fluctuations. Every day, I witness how environmental changes directly impact human activity and the value of infrastructure. 
+
+As of December 19, 2025, I have abandoned the previous statistical baseline (correlation coefficient of 0.14). Instead, I am "prosecuting" each factor of housing value from a professional's viewpoint:
+- **Thermal Comfort:** How temperature differentials impact home value.
+- **Infrastructure:** The real-world reliability of housing support systems.
+- **Maintenance:** The silent value of consistent upkeep.
+
+## How you can help
+This is an open journal for data science experiments. I would love to hear your thoughts!
+- **Feedback:** If you have suggestions for feature engineering or model tuning, feel free to open an issue.
+- **Collaboration:** Feel free to fork this repository to experiment with your own models.
+- **Stars:** If you find this analysis helpful, please leave a star to support the project!
+
+## Latest Update
+"Currently experimenting with new feature engineering strategies. Refining my 'prosecution' logic!"
 
 ## How you can help
 This is an open journal for data science experiments. I would love to hear your thoughts!
