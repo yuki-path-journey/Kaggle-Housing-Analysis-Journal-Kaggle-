@@ -1,4 +1,19 @@
+# Kaggle Housing Analysis Journal
 
+## Project Overview
+This project explores housing price trends using Kaggle datasets. My goal is to extract key factors that influence market value.
+
+## Why this matters?
+I am currently analyzing [ここに少しだけ「なぜこの分析が面白いか」を書く] to improve model accuracy. 
+
+## How you can help
+This is an open journal for data science experiments. I would love to hear your thoughts!
+- **Feedback:** If you have suggestions for feature engineering or model tuning, feel free to open an issue.
+- **Collaboration:** Feel free to fork this repository to experiment with your own models.
+- **Stars:** If you find this analysis helpful, please leave a star to support the project!
+
+## Latest Update
+"Currently experimenting with new feature engineering strategies."
 ---
 ### ✉️ Open to Professional Collaboration
 This model is currently helping 40+ daily users with housing market  I'mprojections.
