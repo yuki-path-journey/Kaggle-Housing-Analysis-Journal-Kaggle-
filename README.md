@@ -25,10 +25,10 @@ This is an open journal for data science experiments. I would love to hear your 
 - **Feedback:** If you have suggestions for feature engineering or model tuning, feel free to open an issue.
 - **Collaboration:** Feel free to fork this repository to experiment with your own models.
 - **Stars:** If you find this analysis helpful, please leave a star to support the project!
-
-## Latest Update
-"Currently experimenting with new feature engineering strategies. Refining my 'prosecution' logic!"
-
+---
+# Latest Project
+### Advanced Manufacturing Analytics & Bosch Production Optimization
+---
 ## How you can help
 This is an open journal for data science experiments. I would love to hear your thoughts!
 - **Feedback:** If you have suggestions for feature engineering or model tuning, feel free to open an issue.
