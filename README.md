@@ -44,8 +44,7 @@ If you're interested in implementing, consulting, or exploring new analytical op
 
 ---
 ### 🌍 Live Traffic Status
-![Flag Counter]　<img width="320" height="568" alt="Image" src="https://github.com/user-attachments/assets/e4c64dbb-9bf7-4e62-9681-9019bc64ef34" />- 
-
+![Flag Counter]　<img width="320" height="568" alt="Image" src="https://github.com/user-attachments/assets/a7a4cf5a-4f84-4df0-b686-53b8ffbd1d8a" />
 ### 📧 Contact
 **Email:** ncis.la.no85@gmail.com
 -
